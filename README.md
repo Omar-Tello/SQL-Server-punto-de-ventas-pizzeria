@@ -1,2 +1,2 @@
-# punto-de-ventas-pizzeria
+# sql server 
 base de datos para una pizzeria
